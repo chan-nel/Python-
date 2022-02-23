@@ -1,0 +1,10 @@
+/* 设置全局样式 */
+html,body,#root{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    min-width: 1366px;
+}
+a {
+    text-decoration: none;
+}
